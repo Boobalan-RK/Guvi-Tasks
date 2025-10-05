@@ -2,7 +2,7 @@
 
 ## 1. Guess The Number
 
-File: guvi-tasks.py
+File: guvi-tasks_2.py
 
 ## 2. Scrambled Word
 
