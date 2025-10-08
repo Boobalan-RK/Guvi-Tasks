@@ -14,6 +14,6 @@ File: ODD & EVEN.py
 ## 4. Task 4 Prime numbers
 File: prime number
 
-## 5. Task 4 Prime numbers
-First and last number integer
+## 5. Task 4 First and Last digit
+File: first and last digit of an integer
 
