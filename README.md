@@ -11,6 +11,9 @@ File: scrambled_words.py
 ## 3. Task 4 ODD & Even
 File: ODD & EVEN.py
 
-## 3. Task 4 Prime numbers
+## 4. Task 4 Prime numbers
 File: prime number
+
+## 5. Task 4 Prime numbers
+First and last number integer
 
