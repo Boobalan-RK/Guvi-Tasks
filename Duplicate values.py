@@ -6,9 +6,9 @@ set_a = set(list_a)
 set_b = set(list_b)
 set_c = set(list_c)
 
-comman_elements_set = set_a & set_b & set_c
+comman_number = set_a & set_b & set_c
 
-duplicates = list(comman_elements_set)
+duplicates = list(comman_number)
 
 print(f"List A: {list_a}")
 print(f"List B: {list_b}")
