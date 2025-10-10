@@ -20,4 +20,11 @@ File: first and last digit of an integer
 ## 6. Task 4 Happy Numbers
 File : Happy Numbers
 
+## 7. Task 4 Duplicate value
+File : Duplicate Values
+
+## 8. Task 4 Non repeating numbers
+File : Non-Repeating
+
+
 
