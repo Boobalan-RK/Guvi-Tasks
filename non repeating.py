@@ -5,12 +5,13 @@ def unique_element(input_list):
             counts[element] = counts.get(element, 0) + 1
 
 
+        unique_elements = []
         for element in input_list:
             if counts[element] == 1:
-                return element
-
-
-        return "No unique element found."
+                unique_elements.append(element)
+        
+        if unique_elements:
+            return unique_elements
 
 my_list = [7, 5, 2, 4, 5, 7, 8, 2, 9]
 
