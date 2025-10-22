@@ -26,5 +26,7 @@ File : Duplicate Values
 ## 8. Task 4 Non repeating numbers
 File : Non-Repeating
 
+**Task 5 :-Question 1**
+File : Lambda Task 5 question 1
 
 
