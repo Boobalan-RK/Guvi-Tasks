@@ -33,5 +33,8 @@ File : Lambda Task5 question 1
 ## 2. Task 5 Lambda functions
 File : Task 5 question 2
 
+## 2. Task 5 Lambda functions
+File : Task 5 question 3
+
 
 
