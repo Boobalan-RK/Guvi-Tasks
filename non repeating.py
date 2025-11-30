@@ -4,12 +4,11 @@ def unique_element(input_list):
         for element in input_list:
             counts[element] = counts.get(element, 0) + 1
 
-
         unique_elements = []
         for element in input_list:
             if counts[element] == 1:
                 unique_elements.append(element)
-        
+
         if unique_elements:
             return unique_elements
 
