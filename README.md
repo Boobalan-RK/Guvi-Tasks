@@ -36,5 +36,16 @@ File : Task 5 question 2
 ## 2. Task 5 Lambda functions
 File : Task 5 question 3
 
+-------------------------------------------------------------------------------------------------
+
+## 1. Task 6 OOPS Task 1
+OOPS_TASK_1.PY
+
+## 2. Task 6 OOPS Task 2
+OOPS_TASK_2.PY
+
+## 3. Task 6 OOPS Task 3
+OOPS_TASK_3.PY
+
 
 
